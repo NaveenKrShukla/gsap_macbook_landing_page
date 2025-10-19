@@ -2,7 +2,6 @@
 
 This repository contains the code for building a beautiful **Apple-style 3D landing page** using **React**, **Three.js**, **GSAP**, and **TailwindCSS**. The project showcases products in immersive 3D scenes with scroll-driven animations, interactive models, and smooth transitions, designed for developers creating modern, interactive web experiences.
 
-> **Tutorial**: This project is built based on a detailed tutorial available on [JavaScript Mastery YouTube Channel](https://www.youtube.com/c/JavaScriptMastery). Follow the tutorial to build similar projects step-by-step.
 
 ## ✨ Introduction
 
