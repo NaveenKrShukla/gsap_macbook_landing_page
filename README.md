@@ -1,16 +1,52 @@
-# React + Vite
+# GSAP Macbook Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the code for building a beautiful **Apple-style 3D landing page** using **React**, **Three.js**, **GSAP**, and **TailwindCSS**. The project showcases products in immersive 3D scenes with scroll-driven animations, interactive models, and smooth transitions, designed for developers creating modern, interactive web experiences.
 
-Currently, two official plugins are available:
+> **Tutorial**: This project is built based on a detailed tutorial available on [JavaScript Mastery YouTube Channel](https://www.youtube.com/c/JavaScriptMastery). Follow the tutorial to build similar projects step-by-step.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Introduction
 
-## React Compiler
+This project creates an Apple-style 3D website where products are showcased in 3D environments, with smooth scrolling animations, pinned sections, and image transitions powered by **GSAP**, **Three.js**, and **TailwindCSS**.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **3D Product Scene** with realistic lighting
+- **Animate 3D Models** on scroll
+- **Scroll-based animations** using **GSAP**’s **ScrollTrigger**
+- **Pinned Sections** for immersive experiences
+- **Responsive Design** across all devices
+- And much more...
 
-## Expanding the ESLint configuration
+### 🚀 Live Demo
+You can check out the deployed project live on Vercel here:  
+**[Live Demo - GSAP Macbook Landing Page](https://my-gsap-macbook-landing-page.vercel.app/)**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Tech Stack
+
+- **React**: JavaScript library for building interactive user interfaces
+- **GSAP**: Powerful animation library used for scroll-driven visuals, timeline animations, and parallax effects
+- **Three.js**: JavaScript 3D library for rendering interactive 3D graphics
+- **TailwindCSS**: Utility-first CSS framework for building custom user interfaces
+- **Vite**: A fast build tool and development server
+- **Zustand**: A simple state management library for React
+- **Hostinger**: Web hosting platform (used for live deployment)
+
+## 🔋 Features
+
+- **3D Product Scene with Realistic Lighting**: Showcase products in a lifelike 3D environment.
+- **Animate 3D Models on Scroll**: 3D models are animated based on user scroll position for an interactive experience.
+- **ScrollTrigger Effects**: GSAP’s ScrollTrigger powers smooth scroll-driven animations and timelines.
+- **Pinned Sections**: Lock sections in view while animating content for engaging scroll effects.
+- **Image Masking Effects**: Create stunning image transitions triggered by scroll events.
+- **Seamless Timeline Animations**: Multiple section animations working in harmony across the page.
+- **Responsive Design**: Fluid layout and adaptive animations for all screen sizes.
+- **Smooth Scroll & Parallax**: Create smooth scrolling and parallax effects for a dynamic user experience.
+
+## 🤸 Quick Start
+
+### Prerequisites
+
+Before getting started, make sure you have the following installed:
+
+- **Git**
+- **Node.js** (v14 or higher)
+- **npm** (Node Package Manager)
+
